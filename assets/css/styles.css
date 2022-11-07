@@ -673,7 +673,7 @@ img{
 
 .footer__copy{
   font-size: var(--small-font-size);
-  color: var(--text-color);
+  color: var(--first-color-light);
 }
 
 /* ===== MEDIA QUERIES=====*/
@@ -720,7 +720,7 @@ img{
   }
 
   .project__container{
-    background-color: var(--first-color);
+    background-color: var(--first-color-dark);
     grid-template-columns: 2fr 1.2fr;
     padding: 0 2rem;
     border-radius: .5rem;
